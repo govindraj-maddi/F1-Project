@@ -1,0 +1,35 @@
+body{
+  margin: 0em;
+font-family: 'Inter', sans-serif;
+}
+.maindiv{
+  margin: 1em 0em 0em 1.5em;
+width:50em;
+}
+.beagleinfo{
+margin-left:0.5em;
+ padding: 0em 0.5em 0.5em 0.5em;
+width:37em;
+}
+.heading{
+margin-bottom:0.5em;
+}
+.moreimg{
+margin:0.5em 0em 0em 0em;
+}
+ol{
+padding:0em;
+}
+.list{
+margin-left:1.2em;
+}
+li{
+margin-bottom:0.5em;
+}
+a{
+color:black;
+}
+img{
+width:23em;
+border-radius:5px;
+}
